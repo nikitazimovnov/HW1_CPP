@@ -5,9 +5,7 @@
 using namespace std;
 
 void In(Poverb& pov, ifstream& ifst) {
-    string inter;
-
-    ifst >> pov.country_length >> pov.text_length >> pov.signs_count >> inter;
+    ifst >> pov.country_length >> pov.text_length >> pov.signs_count;
 }
 
 void InRnd(Poverb& pov) {
