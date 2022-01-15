@@ -6,7 +6,7 @@ using namespace std;
 
 void In(Aphorism& aph, ifstream& ifst) {
     string inter;
-    ifst >> aph.name_length >> aph.text_length >> aph.signs_count >> inter;
+    ifst >> aph.name_length >> aph.text_length >> aph.signs_count;
 }
 
 void InRnd(Aphorism& aph) {
