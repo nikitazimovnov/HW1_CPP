@@ -1,0 +1,369 @@
+Filled container:
+Container contains 30 elements.
+
+1: It is aphorism 
+Author's name length: 8
+text length 23
+signs count:3
+main_func = 0.130435
+
+2: It is aphorism 
+Author's name length: 11
+text length 44
+signs count:6
+main_func = 0.136364
+
+3: It is puzzle 
+Author's name length: 8
+text length 59
+signs count:8
+main_func = 0.135593
+
+4: It is poverb 
+Author's name length: 13
+text length 61
+signs count:5
+main_func = 0.0819672
+
+5: It is puzzle 
+Author's name length: 9
+text length 122
+signs count:16
+main_func = 0.131148
+
+6: It is aphorism 
+Author's name length: 14
+text length 11
+signs count:1
+main_func = 0.0909091
+
+7: It is aphorism 
+Author's name length: 6
+text length 75
+signs count:12
+main_func = 0.16
+
+8: It is aphorism 
+Author's name length: 7
+text length 37
+signs count:9
+main_func = 0.243243
+
+9: It is poverb 
+Author's name length: 11
+text length 109
+signs count:18
+main_func = 0.165138
+
+10: It is poverb 
+Author's name length: 13
+text length 53
+signs count:7
+main_func = 0.132075
+
+11: It is aphorism 
+Author's name length: 8
+text length 94
+signs count:11
+main_func = 0.117021
+
+12: It is aphorism 
+Author's name length: 7
+text length 81
+signs count:7
+main_func = 0.0864198
+
+13: It is poverb 
+Author's name length: 12
+text length 66
+signs count:6
+main_func = 0.0909091
+
+14: It is puzzle 
+Author's name length: 6
+text length 26
+signs count:4
+main_func = 0.153846
+
+15: It is aphorism 
+Author's name length: 11
+text length 46
+signs count:7
+main_func = 0.152174
+
+16: It is poverb 
+Author's name length: 7
+text length 104
+signs count:14
+main_func = 0.134615
+
+17: It is puzzle 
+Author's name length: 14
+text length 99
+signs count:10
+main_func = 0.10101
+
+18: It is poverb 
+Author's name length: 12
+text length 51
+signs count:9
+main_func = 0.176471
+
+19: It is poverb 
+Author's name length: 8
+text length 106
+signs count:18
+main_func = 0.169811
+
+20: It is poverb 
+Author's name length: 14
+text length 66
+signs count:8
+main_func = 0.121212
+
+21: It is poverb 
+Author's name length: 7
+text length 80
+signs count:12
+main_func = 0.15
+
+22: It is aphorism 
+Author's name length: 12
+text length 50
+signs count:3
+main_func = 0.06
+
+23: It is puzzle 
+Author's name length: 12
+text length 111
+signs count:16
+main_func = 0.144144
+
+24: It is poverb 
+Author's name length: 13
+text length 66
+signs count:9
+main_func = 0.136364
+
+25: It is puzzle 
+Author's name length: 7
+text length 59
+signs count:7
+main_func = 0.118644
+
+26: It is puzzle 
+Author's name length: 10
+text length 18
+signs count:2
+main_func = 0.111111
+
+27: It is aphorism 
+Author's name length: 9
+text length 79
+signs count:8
+main_func = 0.101266
+
+28: It is poverb 
+Author's name length: 8
+text length 24
+signs count:3
+main_func = 0.125
+
+29: It is puzzle 
+Author's name length: 10
+text length 92
+signs count:10
+main_func = 0.108696
+
+30: It is puzzle 
+Author's name length: 14
+text length 94
+signs count:14
+main_func = 0.148936
+
+
+ 
+ 
+Shake-Sorted container: 
+Container contains 30 elements.
+
+1: It is aphorism 
+Author's name length: 12
+text length 50
+signs count:3
+main_func = 0.06
+
+2: It is poverb 
+Author's name length: 13
+text length 61
+signs count:5
+main_func = 0.0819672
+
+3: It is aphorism 
+Author's name length: 7
+text length 81
+signs count:7
+main_func = 0.0864198
+
+4: It is aphorism 
+Author's name length: 14
+text length 11
+signs count:1
+main_func = 0.0909091
+
+5: It is poverb 
+Author's name length: 12
+text length 66
+signs count:6
+main_func = 0.0909091
+
+6: It is puzzle 
+Author's name length: 14
+text length 99
+signs count:10
+main_func = 0.10101
+
+7: It is aphorism 
+Author's name length: 9
+text length 79
+signs count:8
+main_func = 0.101266
+
+8: It is puzzle 
+Author's name length: 10
+text length 92
+signs count:10
+main_func = 0.108696
+
+9: It is puzzle 
+Author's name length: 10
+text length 18
+signs count:2
+main_func = 0.111111
+
+10: It is aphorism 
+Author's name length: 8
+text length 94
+signs count:11
+main_func = 0.117021
+
+11: It is puzzle 
+Author's name length: 7
+text length 59
+signs count:7
+main_func = 0.118644
+
+12: It is poverb 
+Author's name length: 14
+text length 66
+signs count:8
+main_func = 0.121212
+
+13: It is poverb 
+Author's name length: 8
+text length 24
+signs count:3
+main_func = 0.125
+
+14: It is aphorism 
+Author's name length: 8
+text length 23
+signs count:3
+main_func = 0.130435
+
+15: It is puzzle 
+Author's name length: 9
+text length 122
+signs count:16
+main_func = 0.131148
+
+16: It is poverb 
+Author's name length: 13
+text length 53
+signs count:7
+main_func = 0.132075
+
+17: It is poverb 
+Author's name length: 7
+text length 104
+signs count:14
+main_func = 0.134615
+
+18: It is puzzle 
+Author's name length: 8
+text length 59
+signs count:8
+main_func = 0.135593
+
+19: It is aphorism 
+Author's name length: 11
+text length 44
+signs count:6
+main_func = 0.136364
+
+20: It is poverb 
+Author's name length: 13
+text length 66
+signs count:9
+main_func = 0.136364
+
+21: It is puzzle 
+Author's name length: 12
+text length 111
+signs count:16
+main_func = 0.144144
+
+22: It is puzzle 
+Author's name length: 14
+text length 94
+signs count:14
+main_func = 0.148936
+
+23: It is poverb 
+Author's name length: 7
+text length 80
+signs count:12
+main_func = 0.15
+
+24: It is aphorism 
+Author's name length: 11
+text length 46
+signs count:7
+main_func = 0.152174
+
+25: It is puzzle 
+Author's name length: 6
+text length 26
+signs count:4
+main_func = 0.153846
+
+26: It is aphorism 
+Author's name length: 6
+text length 75
+signs count:12
+main_func = 0.16
+
+27: It is poverb 
+Author's name length: 11
+text length 109
+signs count:18
+main_func = 0.165138
+
+28: It is poverb 
+Author's name length: 8
+text length 106
+signs count:18
+main_func = 0.169811
+
+29: It is poverb 
+Author's name length: 12
+text length 51
+signs count:9
+main_func = 0.176471
+
+30: It is aphorism 
+Author's name length: 7
+text length 37
+signs count:9
+main_func = 0.243243
+

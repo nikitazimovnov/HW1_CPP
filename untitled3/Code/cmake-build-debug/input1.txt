@@ -1,0 +1,129 @@
+Filled container:
+Container contains 10 elements.
+
+1: It is poverb 
+Author's name length: 13
+text length 79
+signs count:12
+main_func = 0.151899
+
+2: It is aphorism 
+Author's name length: 7
+text length 83
+signs count:7
+main_func = 0.0843373
+
+3: It is puzzle 
+Author's name length: 8
+text length 127
+signs count:19
+main_func = 0.149606
+
+4: It is puzzle 
+Author's name length: 7
+text length 34
+signs count:4
+main_func = 0.117647
+
+5: It is poverb 
+Author's name length: 13
+text length 76
+signs count:10
+main_func = 0.131579
+
+6: It is puzzle 
+Author's name length: 14
+text length 68
+signs count:10
+main_func = 0.147059
+
+7: It is poverb 
+Author's name length: 8
+text length 89
+signs count:14
+main_func = 0.157303
+
+8: It is puzzle 
+Author's name length: 13
+text length 16
+signs count:1
+main_func = 0.0625
+
+9: It is aphorism 
+Author's name length: 6
+text length 14
+signs count:1
+main_func = 0.0714286
+
+10: It is poverb 
+Author's name length: 6
+text length 119
+signs count:15
+main_func = 0.12605
+
+
+ 
+ 
+Shake-Sorted container: 
+Container contains 10 elements.
+
+1: It is puzzle 
+Author's name length: 13
+text length 16
+signs count:1
+main_func = 0.0625
+
+2: It is aphorism 
+Author's name length: 6
+text length 14
+signs count:1
+main_func = 0.0714286
+
+3: It is aphorism 
+Author's name length: 7
+text length 83
+signs count:7
+main_func = 0.0843373
+
+4: It is puzzle 
+Author's name length: 7
+text length 34
+signs count:4
+main_func = 0.117647
+
+5: It is poverb 
+Author's name length: 6
+text length 119
+signs count:15
+main_func = 0.12605
+
+6: It is poverb 
+Author's name length: 13
+text length 76
+signs count:10
+main_func = 0.131579
+
+7: It is puzzle 
+Author's name length: 14
+text length 68
+signs count:10
+main_func = 0.147059
+
+8: It is puzzle 
+Author's name length: 8
+text length 127
+signs count:19
+main_func = 0.149606
+
+9: It is poverb 
+Author's name length: 13
+text length 79
+signs count:12
+main_func = 0.151899
+
+10: It is poverb 
+Author's name length: 8
+text length 89
+signs count:14
+main_func = 0.157303
+

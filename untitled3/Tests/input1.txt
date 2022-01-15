@@ -1,0 +1,129 @@
+Filled container:
+Container contains 10 elements.
+
+1: It is aphorism 
+Author's name length: 10
+text length 124
+signs count:16
+main_func = 0.129032
+
+2: It is puzzle 
+Author's name length: 6
+text length 38
+signs count:6
+main_func = 0.157895
+
+3: It is poverb 
+Author's name length: 11
+text length 27
+signs count:4
+main_func = 0.148148
+
+4: It is poverb 
+Author's name length: 8
+text length 19
+signs count:3
+main_func = 0.157895
+
+5: It is puzzle 
+Author's name length: 12
+text length 88
+signs count:10
+main_func = 0.113636
+
+6: It is aphorism 
+Author's name length: 11
+text length 91
+signs count:7
+main_func = 0.0769231
+
+7: It is puzzle 
+Author's name length: 12
+text length 88
+signs count:15
+main_func = 0.170455
+
+8: It is aphorism 
+Author's name length: 13
+text length 125
+signs count:21
+main_func = 0.168
+
+9: It is aphorism 
+Author's name length: 9
+text length 105
+signs count:14
+main_func = 0.133333
+
+10: It is puzzle 
+Author's name length: 12
+text length 100
+signs count:14
+main_func = 0.14
+
+
+ 
+ 
+Shake-Sorted container: 
+Container contains 10 elements.
+
+1: It is aphorism 
+Author's name length: 11
+text length 91
+signs count:7
+main_func = 0.0769231
+
+2: It is puzzle 
+Author's name length: 12
+text length 88
+signs count:10
+main_func = 0.113636
+
+3: It is aphorism 
+Author's name length: 10
+text length 124
+signs count:16
+main_func = 0.129032
+
+4: It is aphorism 
+Author's name length: 9
+text length 105
+signs count:14
+main_func = 0.133333
+
+5: It is puzzle 
+Author's name length: 12
+text length 100
+signs count:14
+main_func = 0.14
+
+6: It is poverb 
+Author's name length: 11
+text length 27
+signs count:4
+main_func = 0.148148
+
+7: It is puzzle 
+Author's name length: 6
+text length 38
+signs count:6
+main_func = 0.157895
+
+8: It is poverb 
+Author's name length: 8
+text length 19
+signs count:3
+main_func = 0.157895
+
+9: It is aphorism 
+Author's name length: 13
+text length 125
+signs count:21
+main_func = 0.168
+
+10: It is puzzle 
+Author's name length: 12
+text length 88
+signs count:15
+main_func = 0.170455
+
