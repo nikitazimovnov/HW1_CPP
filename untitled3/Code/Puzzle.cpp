@@ -5,8 +5,7 @@
 using namespace std;
 
 void In(Puzzle& puz, ifstream& ifst) {
-    string inter;
-    ifst >> puz.answer_length >> puz.text_length >> puz.signs_count >> inter;
+    ifst >> puz.answer_length >> puz.text_length >> puz.signs_count;
 }
 
 void InRnd(Puzzle& puz) {
